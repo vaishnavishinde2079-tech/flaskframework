@@ -1,0 +1,8 @@
+1)git config --list
+2)git status
+3)git init
+4)git branch
+5)git clone " "
+6)git config global user.name " "
+7)git config global user.email " "
+
